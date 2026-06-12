@@ -1,0 +1,5 @@
+# Рантайм воркера (torch ставится отдельно в Dockerfile с индексом cu128).
+qwen-tts
+soundfile
+runpod
+huggingface_hub[hf_transfer]
